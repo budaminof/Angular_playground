@@ -13,3 +13,6 @@
 1. add boostrap, jquery and angular cdn.
 1. we have angular!
 1. add 'ng-app' as attribute to html.
+
+#adding bootstrap
+* copy and paste bootstrap horizontal form, edit a little bit.
