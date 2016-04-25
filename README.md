@@ -10,3 +10,5 @@
 1. touch an index.html page
 1. create README and take notes.
 1. npm start
+1. add boostrap, jquery and angular cdn.
+1. we have angular!
