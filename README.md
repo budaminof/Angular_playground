@@ -1,5 +1,10 @@
 ### README
 
+#### how to get it working localy?
+1. fork, clone, npm install
+1. 'npm start'
+
+
 #### How did this get made?
 
 1. take folder, 'git init', 'npm init -y',
@@ -8,7 +13,7 @@
     {"start": "http-server -c-1 -o"}
   ```
 1. touch an index.html page
-1. create README and take notes.
+1. create README and take notes
 1. npm start
 
 #### add the right cdn links.
