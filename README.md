@@ -16,3 +16,6 @@
 
 #adding bootstrap
 * copy and paste bootstrap horizontal form, edit a little bit.
+
+#adding actual angular
+* ng-model="name" in the input text. and connect it with {{name}} where we want to name to appear.
